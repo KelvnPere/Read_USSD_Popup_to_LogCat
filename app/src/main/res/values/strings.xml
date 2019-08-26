@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accessibility Service</string>
+    <string name="app_description">This service records pop ups sent by your mobile operator, and saves them in XXXX App. It is absolutely safe to use.</string>
+
+</resources>
